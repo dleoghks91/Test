@@ -11,4 +11,4 @@
 
 [링크](http://example.com "링크제목").
 
-[링크1](http://www.naver.com) 과 [링크2](http://www.google.com) 
+[링크1](http://www.naver.com "네이버") 과 [링크2](http://www.google.com "구글") 
